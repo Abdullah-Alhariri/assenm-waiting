@@ -1,0 +1,23 @@
+{
+  "name": "coming-soon-gh-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdullah-Alhariri/assenm-waiting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdullah-Alhariri/assenm-waiting/issues"
+  },
+  "homepage": "https://github.com/Abdullah-Alhariri/assenm-waiting#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
